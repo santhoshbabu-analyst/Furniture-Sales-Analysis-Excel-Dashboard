@@ -25,7 +25,7 @@ The goal of this project is to convert a large furniture sales dataset into a **
 | Type | File Name | Description |
 |------|------------|-------------|
 | **Fact** | `Furniture_Sales.csv` | Contains order details such as date, sales, profit, and quantity |
-| **Dashboard** | `Furniture SalesDashboa.xlsx` | Contains interactive charts, KPIs, and region filters |
+| **Dashboard** | `Furniture Sales Dashboard.xlsx` | Contains interactive charts, KPIs, and region filters |
 
 📦 **Note:**  
 The raw dataset was imported and transformed using **Power Query** for cleaning and preprocessing.  
